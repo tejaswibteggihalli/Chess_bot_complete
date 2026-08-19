@@ -1,12 +1,14 @@
-# Chess Engine
+# SlowFish - A python based chess engine
 
 A Python chess engine and GUI built by following Eddie Sharick's "Chess Engine in Python" tutorial series, with additional custom features and bug fixes.
 
-## Features
+It takes ~30 sec to make each move - hence the name.   I would say it's playing strength is quite bad, presumably <800 elo .
 
-- Full legal move generation (including castling, en passant, pawn promotion)
+## Features  ( implemented from the ground up with reference to YouTube videos (see bottom) )
+
+- Full legal move generation (including castling, en passant, pawn promotion) - implemented from the ground up with reference to YouTube videos (see bottom)
 - Automatic draw after 100 plies without a pawn move or capture (50-move rule)
-- Depth-5 plies Negamax AI search with alpha-beta pruning
+- Depth-5 plies Negamax search with alpha-beta pruning
 - Move ordering that prioritizes captures, pawn promotions, and castling
 - Piece-square table evaluation for material and positional scoring
 
@@ -87,13 +89,8 @@ playerTwo = True
 └── requirements.txt
 ```
 
-## Known Fixes Applied
-
-- Corrected en passant capture direction bug
-- Fixed double-multiplied piece-square table score
-- Fixed undefined `drawEndGameText` reference
-- Fixed mis-nested castling rights `elif` logic
-
 ## Credits
 
 Based on [Eddie Sharick's Chess Engine tutorial series](https://www.youtube.com/c/EddieSharick) (YouTube).
+References: [Chess Engine Wiki](https://chessprogramming.org/) 
+
