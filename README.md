@@ -6,8 +6,9 @@ A Python chess engine and GUI built by following Eddie Sharick's "Chess Engine i
 
 - Full legal move generation (including castling, en passant, pawn promotion)
 - Automatic draw after 100 plies without a pawn move or capture (50-move rule)
-- Tapered piece-square tables (including king PST) for evaluation
-- Simple chess AI opponent using minimax/negamax with alpha-beta pruning (per the tutorial series)
+- Depth-5 plies Negamax AI search with alpha-beta pruning
+- Move ordering that prioritizes captures, pawn promotions, and castling
+- Piece-square table evaluation for material and positional scoring
 
 ## Requirements
 
@@ -42,6 +43,30 @@ python ChessMain.py
 
 This launches the pygame window with the interactive chessboard.
 
+## Game Modes
+
+Player and AI control is configured in `ChessMain.py` using the `playerOne` and
+`playerTwo` flags inside `main()`. Set the values as follows, then restart the
+game:
+
+| Mode | `playerOne` | `playerTwo` |
+| --- | --- | --- |
+| Human vs. AI (White) | `True` | `False` |
+| AI vs. Human (Black) | `False` | `True` |
+| Human vs. Human | `True` | `True` |
+| AI vs. AI | `False` | `False` |
+
+`playerOne` controls White and `playerTwo` controls Black. A value of `True`
+enables mouse input for that side; a value of `False` lets the AI choose moves.
+
+For example, to play as Black against the AI, update the configuration in
+`ChessMain.py`:
+
+```python
+playerOne = False
+playerTwo = True
+```
+
 ## Controls
 
 - **Left click**: select a square, then click a destination square to move
@@ -53,13 +78,11 @@ This launches the pygame window with the interactive chessboard.
 ```
 .
 ├── ChessMain.py       # Entry point, game loop, GUI/event handling
-├── ChessEngine.py      # Board state, move generation, rules (repetition, 50-move, insufficient material)
-├── ChessAI.py           # AI move search (minimax/negamax + PSTs, alpha-beta pruning)
-├── images/                    # Piece sprite images
+├── ChessEngine.py      # Board state, move generation, and chess rules
+├── SmartMoveFinder.py  # AI search, move ordering, and board evaluation
+├── images/             # Piece sprite images
 └── requirements.txt
 ```
-
-> Note: adjust file names above to match your actual filenames if they differ — this reflects the structure used in Eddie Sharick's tutorial series.
 
 ## Known Fixes Applied
 
