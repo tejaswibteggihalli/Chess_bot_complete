@@ -136,7 +136,17 @@ def scoreMoveForOrdering(gs, move):
 
 
 def orderMoves(gs, validMoves):
-    return sorted(validMoves, key=lambda move: scoreMoveForOrdering(gs, move), reverse=True)
+    forcingMoves = []
+    quietMoves = []
+
+    for move in validMoves:
+        if move.isCapture or move.isPawnPromotion or move.isCastleMove:
+            forcingMoves.append(move)
+        else:
+            quietMoves.append(move)
+
+    forcingMoves.sort(key=lambda move: scoreMoveForOrdering(gs, move), reverse=True)
+    return forcingMoves + quietMoves
 
 
 
