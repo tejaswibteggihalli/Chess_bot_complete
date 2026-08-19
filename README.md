@@ -4,9 +4,9 @@ A Python chess engine and GUI built by following Eddie Sharick's "Chess Engine i
 
 It takes ~30 sec to make each move - hence the name.   I would say it's playing strength is quite bad, presumably <800 elo .
 
-## Features
+## Features  ( implemented from the ground up with reference to YouTube videos (see bottom) )
 
-- Full legal move generation (including castling, en passant, pawn promotion)
+- Full legal move generation (including castling, en passant, pawn promotion) - implemented from the ground up with reference to YouTube videos (see bottom)
 - Automatic draw after 100 plies without a pawn move or capture (50-move rule)
 - Depth-5 plies Negamax AI search with alpha-beta pruning
 - Move ordering that prioritizes captures, pawn promotions, and castling
@@ -99,3 +99,5 @@ playerTwo = True
 ## Credits
 
 Based on [Eddie Sharick's Chess Engine tutorial series](https://www.youtube.com/c/EddieSharick) (YouTube).
+References: [Chess Engine Wiki](https://chessprogramming.org/) 
+
