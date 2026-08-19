@@ -1,4 +1,4 @@
-# Chess Engine
+# SlowFish
 
 A Python chess engine and GUI built by following Eddie Sharick's "Chess Engine in Python" tutorial series, with additional custom features and bug fixes.
 
