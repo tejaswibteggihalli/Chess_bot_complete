@@ -45,7 +45,7 @@ def main():
     playerClicks = []  #keeps track of player clicks (two tuples: [(6, 4), (4, 4)])
     gameOver = False
     playerOne = True #If a Human is playing white, then this will be True. If an AI is playing,  then False.
-    playerTwo = False #Same as above but for black
+    playerTwo = True #Same as above but for black
     AIThinking = False
     moveFinderProcess = None
     moveUndone = False
@@ -70,14 +70,17 @@ def main():
                     if len(playerClicks) == 2 and humanTurn: #after the 2nd click
                         move = ChessEngine.Move(playerClicks[0], playerClicks[1], gs.board)
                         print(move.getChessNotation())
+                        moveFound = False
                         for i in range(len(validMoves)):
                             if move == validMoves[i]:
                                 gs.makeMove(validMoves[i])
                                 moveMade = True
+                                moveFound = True
                                 animate = True
                                 sqSelected = ()  # reset user clicks
                                 playerClicks = []
-                        if not moveMade:
+                                break
+                        if not moveFound:
                             playerClicks = [sqSelected]
             #key handlers
             elif e.type == p.KEYDOWN:
@@ -143,6 +146,9 @@ def main():
         elif gs.stalemate:
             gameOver = True
             drawEndGameText(screen, 'Stalemate')
+        elif gs.fiftyMoveDraw:
+            gameOver = True
+            drawEndGameText(screen, 'Draw by 50-move rule')
 
         clock.tick(MAX_FPS)
         p.display.flip()

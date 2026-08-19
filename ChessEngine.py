@@ -3,6 +3,8 @@
 
 import copy
 
+FIFTY_MOVE_LIMIT = 100
+
 class GameState():
     def __init__(self):
         #board is 8x8 2d list.each element of the list has 2 characters.
@@ -27,6 +29,9 @@ class GameState():
         self.blackKingLocation = (0, 4)
         self.checkmate = False
         self.stalemate = False
+        self.fiftyMoveDraw = False
+        self.halfmoveClock = 0
+        self.halfmoveClockLog = [self.halfmoveClock]
         self.enpassantPossible = ()  #coords for the square where enpassant capture is possible
         self.enpassantPossibleLog = [self.enpassantPossible]
         self.currentCastlingRight = CastleRights(True, True, True, True)
@@ -98,6 +103,12 @@ class GameState():
         self.castleRightsLog.append(CastleRights(self.currentCastlingRight.wks, self.currentCastlingRight.bks, self.currentCastlingRight.wqs,
                          self.currentCastlingRight.bqs))
 
+        if move.pieceMoved[1] == 'p' or move.pieceCaptured != '--':
+            self.halfmoveClock = 0
+        else:
+            self.halfmoveClock += 1
+        self.halfmoveClockLog.append(self.halfmoveClock)
+
 
 
 
@@ -124,6 +135,9 @@ class GameState():
             self.enpassantPossibleLog.pop()
             self.enpassantPossible = self.enpassantPossibleLog[-1]
 
+            self.halfmoveClockLog.pop()
+            self.halfmoveClock = self.halfmoveClockLog[-1]
+
             #undo castling rights
             self.castleRightsLog.pop() #get rid of the new castle rights from the move we are undoing
             castle_rights = copy.deepcopy(self.castleRightsLog[-1])
@@ -141,6 +155,7 @@ class GameState():
 
             self.checkmate = False
             self.stalemate = False
+            self.fiftyMoveDraw = False
 
     '''
     Update the castle rights given the move
@@ -195,6 +210,8 @@ class GameState():
                 self.checkmate = True
             else:
                 self.stalemate = True
+
+        self.fiftyMoveDraw = self.halfmoveClock >= FIFTY_MOVE_LIMIT
 
 
         self.enpassantPossible = tempEnpassantPossible

@@ -107,7 +107,7 @@ piecePositionScores = {"wN": knightScores, "bN": knightScores, "wQ": queenScores
 
 CHECKMATE = 1000
 STALEMATE = 0
-DEPTH = 4
+DEPTH = 6
 node_count = 0
 
 
@@ -150,7 +150,7 @@ def findBestMoveMinMaxNoRecursion(gs, validMoves): #MinMax without recursion
                 opponentMinMaxScore = opponentMaxScore
                 bestPlayerMove = playerMove
             gs.undoMove()
-        return bestPlayerMove
+    return bestPlayerMove
 
 '''
 Helper method to make the first recursive call
@@ -248,6 +248,8 @@ def scoreBoard(gs):
             return CHECKMATE #white wins
     elif gs.stalemate:
         return STALEMATE
+    elif gs.fiftyMoveDraw:
+        return STALEMATE
 
     score = 0
     for row in range(len(gs.board)):
@@ -255,13 +257,13 @@ def scoreBoard(gs):
             square = gs.board[row][col]
             if square != "--":
                 #score it positionally
-                piecePositionScore = piecePositionScores[square][row][col] * .1
+                piecePositionScore = piecePositionScores[square][row][col] * .01
 
 
                 if square[0] == 'w':
-                    score += pieceScore[square[1]] + piecePositionScore*.1
+                    score += pieceScore[square[1]] + piecePositionScore
                 elif square[0] == 'b':
-                    score -= pieceScore[square[1]] + piecePositionScore*.1
+                    score -= pieceScore[square[1]] + piecePositionScore
 
     return score
 

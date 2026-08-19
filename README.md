@@ -6,7 +6,7 @@ A Python chess engine and GUI built by following Eddie Sharick's "Chess Engine i
 
 - Full legal move generation (including castling, en passant, pawn promotion)
 - Threefold repetition detection
-- 50-move rule
+- Automatic draw after 100 plies without a pawn move or capture (50-move rule)
 - Insufficient material draw detection
 - Tapered piece-square tables (including king PST) for evaluation
 - Simple chess AI opponent using minimax/negamax with alpha-beta pruning (per the tutorial series)
