@@ -107,7 +107,7 @@ piecePositionScores = {"wN": knightScores, "bN": knightScores, "wQ": queenScores
 
 CHECKMATE = 1000
 STALEMATE = 0
-DEPTH = 6
+DEPTH = 5
 node_count = 0
 
 
@@ -116,6 +116,27 @@ node_count = 0
 
 def findRandomMove(validMoves):
     return validMoves[random.randint(0, len(validMoves)-1)]
+
+
+def scoreMoveForOrdering(gs, move):
+    score = 0
+    attackerValue = pieceScore[move.pieceMoved[1]]
+
+    if move.isCapture:
+        victimValue = pieceScore[move.pieceCaptured[1]]
+        score += 100000 + victimValue * 10 - attackerValue
+
+    if move.isPawnPromotion:
+        score += 90000
+
+    if move.isCastleMove:
+        score += 10000
+
+    return score
+
+
+def orderMoves(gs, validMoves):
+    return sorted(validMoves, key=lambda move: scoreMoveForOrdering(gs, move), reverse=True)
 
 
 
@@ -157,8 +178,9 @@ Helper method to make the first recursive call
 '''
 def findBestMove(gs, validMoves, returnQueue):
     global nextMove
+    global node_count
     nextMove = None
-    random.shuffle(validMoves)
+    node_count = 0
     #findMoveMinMax(gs. validMoves, DEPTH, gs.whiteToMove)
     findMoveNegaMaxAlphaBeta(gs, validMoves, DEPTH, -CHECKMATE, CHECKMATE, 1 if gs.whiteToMove else -1)
     print(f"Evaluated {node_count} nodes")
@@ -220,9 +242,9 @@ def findMoveNegaMaxAlphaBeta(gs, validMoves, depth, alpha, beta, turnMultiplier)
     if depth == 0:
         return turnMultiplier * scoreBoard(gs)
 
-    #move ordering - implement later
+    orderedMoves = orderMoves(gs, validMoves)
     maxScore = -CHECKMATE
-    for move in validMoves:
+    for move in orderedMoves:
         gs.makeMove(move)
         nextMoves = gs.getValidMoves()
         score = -findMoveNegaMaxAlphaBeta(gs, nextMoves, depth-1, -beta, -alpha, -turnMultiplier)
