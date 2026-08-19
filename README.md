@@ -89,13 +89,6 @@ playerTwo = True
 └── requirements.txt
 ```
 
-## Known Fixes Applied
-
-- Corrected en passant capture direction bug
-- Fixed double-multiplied piece-square table score
-- Fixed undefined `drawEndGameText` reference
-- Fixed mis-nested castling rights `elif` logic
-
 ## Credits
 
 Based on [Eddie Sharick's Chess Engine tutorial series](https://www.youtube.com/c/EddieSharick) (YouTube).
