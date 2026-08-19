@@ -45,6 +45,9 @@ This launches the pygame window with the interactive chessboard.
 
 ## Game Modes
 
+By default, the game is configured as Human vs. AI: you play White and the AI
+plays Black.
+
 Player and AI control is configured in `ChessMain.py` using the `playerOne` and
 `playerTwo` flags inside `main()`. Set the values as follows, then restart the
 game:
