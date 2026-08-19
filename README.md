@@ -8,7 +8,7 @@ It takes ~30 sec to make each move - hence the name.   I would say it's playing 
 
 - Full legal move generation (including castling, en passant, pawn promotion) - implemented from the ground up with reference to YouTube videos (see bottom)
 - Automatic draw after 100 plies without a pawn move or capture (50-move rule)
-- Depth-5 plies Negamax AI search with alpha-beta pruning
+- Depth-5 plies Negamax search with alpha-beta pruning
 - Move ordering that prioritizes captures, pawn promotions, and castling
 - Piece-square table evaluation for material and positional scoring
 
