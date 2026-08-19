@@ -1,9 +1,10 @@
 "This is our main driver file. It will be responsible for handling user input and displaying the current GameState object"
-import pygame
+import os
 # p.init()  it is never a bad idea to initialize pygame.init() at the beginning as some of our methods may rely on this.
 # But in this case it doesn't matter, So I have called it in line 27
 import pygame as p
-from Chess import ChessEngine, SmartMoveFinder
+import ChessEngine
+import SmartMoveFinder
 from multiprocessing import Process, Queue
 
 BOARD_WIDTH = BOARD_HEIGHT = 512 #400 is another option
@@ -19,8 +20,10 @@ Initialize a global dictionary of images. This will be called exactly once in th
 '''
 def loadImages():
     pieces = ['wp', 'wR', 'wN', 'wB', 'wK', 'wQ', 'bp', 'bR', 'bN', 'bB', 'bK', 'bQ']
+    base_dir = os.path.dirname(__file__)
     for piece in pieces:
-        IMAGES[piece] = p.transform.scale(p.image.load('images/' + piece + '.png'),(SQ_SIZE, SQ_SIZE))
+        image_path = os.path.join(base_dir, 'images', piece + '.png')
+        IMAGES[piece] = p.transform.scale(p.image.load(image_path), (SQ_SIZE, SQ_SIZE))
     #Note: we can access an image by saying 'IMAGES['wp']'
 
 '''
