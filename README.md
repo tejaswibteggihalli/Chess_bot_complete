@@ -2,7 +2,7 @@
 
 A Python chess engine and GUI built by following Eddie Sharick's "Chess Engine in Python" tutorial series, with additional custom features and bug fixes.
 
-It takes ~30 sec to make each move - hence the name.   I would say it's playing strength is quite bad it would be <800 elo.
+It takes ~30 sec to make each move - hence the name.   I would say it's playing strength is quite bad, presumably <800 elo .
 
 ## Features
 
