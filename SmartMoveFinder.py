@@ -98,6 +98,7 @@ piecePositionScores = {
 CHECKMATE = 1000
 STALEMATE = 0
 DEPTH = 5
+QUIESCENCE_MAX_DEPTH = 6
 node_count = 0
 
 
@@ -106,6 +107,24 @@ node_count = 0
 
 def findRandomMove(validMoves):
     return validMoves[random.randint(0, len(validMoves)-1)]
+
+
+def formatPrincipalVariation(gs, principalVariation):
+    movePairs = []
+    moveNumber = len(gs.moveLog) // 2 + 1
+    index = 0
+
+    if not gs.whiteToMove and principalVariation:
+        movePairs.append(f"{moveNumber}. ... {principalVariation[0]}")
+        moveNumber += 1
+        index = 1
+
+    while index < len(principalVariation):
+        moves = " ".join(str(move) for move in principalVariation[index:index + 2])
+        movePairs.append(f"{moveNumber}. {moves}")
+        moveNumber += 1
+        index += 2
+    return "[ " + " ".join(movePairs) + " ]"
 
 
 def scoreMoveForOrdering(gs, move):
@@ -193,12 +212,8 @@ def findBestMove(gs, validMoves, returnQueue):
     )
     if principalVariation:
         whiteScore = score * rootTurnMultiplier
-        print(
-            "Principal variation:",
-            " ".join(str(move) for move in principalVariation),
-            f"White: {whiteScore:.2f}",
-            f"STM: {score:.2f}",
-        )
+        print("engine top line:", formatPrincipalVariation(gs, principalVariation))
+        print(f"White: {whiteScore:.2f} STM: {score:.2f}")
     print(f"Evaluated {node_count} nodes")
     returnQueue.put(nextMove)
 
@@ -251,6 +266,42 @@ def findMoveNegaMax(gs, validMoves, depth, turnMultiplier):
         gs.undoMove()
         return maxScore
 
+def quiescenceSearch(gs, alpha, beta, turnMultiplier, depth=0):
+    global node_count
+    node_count += 1
+
+    validMoves = gs.getValidMoves()
+    if gs.checkmate or gs.stalemate or gs.fiftyMoveDraw:
+        return turnMultiplier * scoreBoard(gs)
+
+    standPat = turnMultiplier * scoreBoard(gs)
+    if depth >= QUIESCENCE_MAX_DEPTH:
+        return standPat
+    if standPat >= beta:
+        return standPat
+    if standPat > alpha:
+        alpha = standPat
+
+    if gs.inCheck():
+        tacticalMoves = validMoves
+    else:
+        tacticalMoves = [
+            move for move in validMoves
+            if move.isCapture or move.isPawnPromotion
+        ]
+
+    for move in orderMoves(gs, tacticalMoves):
+        gs.makeMove(move)
+        score = -quiescenceSearch(gs, -beta, -alpha, -turnMultiplier, depth + 1)
+        gs.undoMove()
+
+        if score >= beta:
+            return score
+        if score > alpha:
+            alpha = score
+
+    return alpha
+
 def findMoveNegaMaxAlphaBeta(gs, validMoves, depth, alpha, beta, turnMultiplier):
     global nextMove
     global node_count
@@ -259,7 +310,7 @@ def findMoveNegaMaxAlphaBeta(gs, validMoves, depth, alpha, beta, turnMultiplier)
     if gs.checkmate or gs.stalemate or gs.fiftyMoveDraw:
         return turnMultiplier * scoreBoard(gs), []
     if depth == 0:
-        return turnMultiplier * scoreBoard(gs), []
+        return quiescenceSearch(gs, alpha, beta, turnMultiplier), []
 
     orderedMoves = orderMoves(gs, validMoves)
     maxScore = -CHECKMATE
