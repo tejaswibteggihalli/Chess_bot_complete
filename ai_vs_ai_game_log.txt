@@ -1,0 +1,5278 @@
+C:\Users\tejas\OneDrive\Desktop\SlowFish>python ChessMain.py
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+a3 0.1999999999999993
+c3 0.3000000000000007
+c4 0.399999999999995
+d3 0.3999999999999959
+d4 0.49999999999999645
+engine top line: [ 1. d4 d5 2. Nc3 Nc6 3. e3 ]
+White: 0.50 STM: 0.50
+Evaluated 330674 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Na6 -0.5000000000000036
+Nf6 -0.20000000000000018
+engine top line: [ 1. ... Nf6 2. e3 d5 3. Nf3 e6 ]
+White: 0.20 STM: -0.20
+Evaluated 234408 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+d5 0.40000000000000213
+engine top line: [ 2. d5 c6 3. c4 b5 4. b3 ]
+White: 0.40 STM: 0.40
+Evaluated 659396 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Nxd5 -1.6999999999999988
+Na6 -0.40000000000000213
+c6 -0.10000000000000497
+engine top line: [ 2. ... c6 3. c4 cxd5 4. cxd5 e5 ]
+White: 0.10 STM: -0.10
+Evaluated 344625 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+dxc6 4.440892098500626e-15
+c4 0.3000000000000016
+engine top line: [ 3. c4 e5 4. e3 d6 5. Nf3 ]
+White: 0.30 STM: 0.30
+Evaluated 125133 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+cxd5 -0.10000000000000497
+engine top line: [ 3. ... cxd5 4. cxd5 d6 5. e3 e5 ]
+White: 0.10 STM: -0.10
+Evaluated 128645 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+cxd5 0.2000000000000135
+engine top line: [ 4. cxd5 e6 5. d6 Qb6 6. Qc2 ]
+White: 0.20 STM: 0.20
+Evaluated 132853 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Nxd5 -1.6999999999999988
+Na6 -0.40000000000000213
+Qb6 -0.3999999999999986
+d6 -0.3000000000000078
+e6 -1.0658141036401503e-14
+engine top line: [ 4. ... e6 5. d6 Qb6 6. Qc2 Nc6 ]
+White: 0.00 STM: -0.00
+Evaluated 346068 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+dxe6 -0.09999999999999698
+Nc3 0.10000000000000497
+engine top line: [ 5. Nc3 Bb4 6. d6 Nd5 7. Qd2 ]
+White: 0.10 STM: 0.10
+Evaluated 118378 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+exd5 0.09999999999999787
+engine top line: [ 5. ... exd5 6. Nxd5 Nxd5 7. Qxd5 d6 ]
+White: -0.10 STM: 0.10
+Evaluated 103123 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Nxd5 0.1999999999999993
+engine top line: [ 6. Nxd5 d6 7. Nxf6 gxf6 8. e4 ]
+White: 0.20 STM: 0.20
+Evaluated 181872 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Nxd5 -0.09999999999999787
+Nc6 -7.105427357601002e-15
+engine top line: [ 6. ... Nc6 7. e3 Nxd5 8. Qxd5 d6 ]
+White: 0.00 STM: -0.00
+Evaluated 121361 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Nxf6 0.20000000000000018
+engine top line: [ 7. Nxf6 gxf6 8. e4 d6 9. Nf3 ]
+White: 0.20 STM: 0.20
+Evaluated 144383 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+gxf6 9.769962616701378e-15
+engine top line: [ 7. ... gxf6 8. e4 Bc5 9. Nf3 d6 ]
+White: -0.00 STM: 0.00
+Evaluated 73788 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Qxd7 -8.000000000000007
+a3 -0.1999999999999984
+e3 -1.0658141036401503e-14
+e4 0.10000000000000853
+engine top line: [ 8. e4 d6 9. f4 f5 10. Bd3 ]
+White: 0.10 STM: 0.10
+Evaluated 631819 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rb8 -0.29999999999999005
+Qc7 -0.19999999999999218
+Qb6 2.6645352591003757e-15
+Qa5 3.552713678800501e-15
+Bb4 9.769962616701378e-15
+engine top line: [ 8. ... Bb4 9. Ke2 d6 10. Nf3 Bc5 ]
+White: -0.00 STM: 0.00
+Evaluated 545446 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bd2 0.0
+Ke2 0.09999999999999165
+engine top line: [ 9. Ke2 d6 10. Nf3 f5 11. a3 ]
+White: 0.10 STM: 0.10
+Evaluated 79138 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+O-O -0.19999999999999218
+Qe7 -3.552713678800501e-15
+d6 0.10000000000000053
+engine top line: [ 9. ... d6 10. Nf3 f5 11. Bg5 f6 ]
+White: -0.10 STM: 0.10
+Evaluated 599243 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Qxd6 -8.000000000000007
+e5 -1.5000000000000027
+a3 -2.6645352591003757e-15
+engine top line: [ 10. a3 Bc5 11. Nf3 b5 12. b4 ]
+White: -0.00 STM: -0.00
+Evaluated 839734 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxa3 -1.999999999999996
+Qa5 -0.20000000000000284
+Bc5 0.20000000000000284
+engine top line: [ 10. ... Bc5 11. Be3 f5 12. Bxc5 dxc5 ]
+White: -0.20 STM: 0.20
+Evaluated 515275 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Qxd6 -8.100000000000001
+e5 -1.7000000000000064
+a4 -0.3000000000000007
+b4 -0.19999999999999574
+engine top line: [ 11. b4 Bd4 12. Rb1 d5 13. f3 ]
+White: -0.20 STM: -0.20
+Evaluated 1447753 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Nxb4 -2.2
+Bxb4 -1.199999999999993
+Bg4 2.6645352591003757e-15
+Bd4 0.29999999999999005
+engine top line: [ 11. ... Bd4 12. Rb1 Qe7 13. f3 Bf5 ]
+White: -0.30 STM: 0.30
+Evaluated 217023 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Qxd4 -6.0000000000000036
+b5 -3.299999999999999
+Ra2 -0.20000000000000284
+engine top line: [ 12. Ra2 Be6 13. Rd2 Bc4 14. Ke1 ]
+White: -0.20 STM: -0.20
+Evaluated 145088 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Nxb4 -1.999999999999996
+O-O -4.440892098500626e-15
+Be6 0.20000000000000284
+engine top line: [ 12. ... Be6 13. Rd2 Bc4 14. Ke1 Bxf1 ]
+White: -0.20 STM: 0.20
+Evaluated 330885 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Qxd4 -8.200000000000003
+b5 -1.9000000000000021
+Rd2 -0.9999999999999929
+engine top line: [ 13. Rd2 Bc3 14. Rxd6 Nd4 15. Qxd4 ]
+White: -1.00 STM: -1.00
+Evaluated 218777 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Nxb4 -2.2000000000000024
+Bxf2 -2.1000000000000045
+O-O -0.9999999999999929
+Rc8 -1.7763568394002505e-15
+Qb6 0.09999999999999698
+Bc4 0.29999999999999716
+Bc3 0.9999999999999929
+engine top line: [ 13. ... Bc3 14. Rxd6 Nd4 15. Qxd4 Bxd4 ]
+White: -1.00 STM: 1.00
+Evaluated 562294 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxd6 -0.8999999999999986
+engine top line: [ 14. Rxd6 Nd4 15. Rxd4 Qxd4 16. f3 ]
+White: -0.90 STM: -0.90
+Evaluated 145882 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Qxd6 -1.6999999999999997
+Qc8 -1.2000000000000073
+Qc7 -1.0999999999999943
+Qb6 -0.10000000000000853
+Nd4 0.9999999999999929
+engine top line: [ 14. ... Nd4 15. Rxd4 Qxd4 16. Qxd4 Bxd4 ]
+White: -1.00 STM: 1.00
+Evaluated 550901 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxd4 -0.8000000000000007
+Qxd4 -0.7999999999999972
+engine top line: [ 15. Qxd4 Bxd4 16. Rxd8 Kxd8 17. f4 ]
+White: -0.80 STM: -0.80
+Evaluated 19715 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxd4 0.8000000000000034
+engine top line: [ 15. ... Bxd4 16. Rxd8 Rxd8 17. Nf3 b5 ]
+White: -0.80 STM: 0.80
+Evaluated 16488 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxd8 -0.7999999999999998
+engine top line: [ 16. Rxd8 Kxd8 17. Nf3 Bc4 18. Kd2 ]
+White: -0.80 STM: -0.80
+Evaluated 31083 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kxd8 0.7999999999999998
+Rxd8 0.8000000000000034
+engine top line: [ 16. ... Rxd8 17. Nf3 b5 18. Nxd4 Rxd4 ]
+White: -0.80 STM: 0.80
+Evaluated 87267 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+b5 -4.099999999999998
+Kd3 -1.9000000000000004
+Kf3 -1.1999999999999886
+f3 -0.9000000000000021
+f4 -0.8000000000000007
+engine top line: [ 17. f4 Bc4 18. Ke1 Bxf1 19. Kxf1 ]
+White: -0.80 STM: -0.80
+Evaluated 456280 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxg1 0.7000000000000046
+b5 0.7000000000000055
+Bc4 0.9000000000000021
+engine top line: [ 17. ... Bc4 18. Ke1 Bxf1 19. Kxf1 b5 ]
+White: -0.90 STM: 0.90
+Evaluated 736372 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kf3 -3.9000000000000004
+Ke1 -0.8000000000000007
+engine top line: [ 18. Ke1 Bc3 19. Kf2 Bxf1 20. Kxf1 ]
+White: -0.80 STM: -0.80
+Evaluated 26006 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxf1 0.700000000000002
+Bc3 0.9000000000000021
+engine top line: [ 18. ... Bc3 19. Kf2 Bxf1 20. Kxf1 b5 ]
+White: -0.90 STM: 0.90
+Evaluated 216292 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bd2 -5.299999999999999
+Kf2 -3.899999999999997
+engine top line: [ 19. Kf2 Bxf1 20. Nf3 Bd3 21. Ke3 ]
+White: -3.90 STM: -3.90
+Evaluated 15417 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxf1 3.9000000000000004
+engine top line: [ 19. ... Bxf1 20. Nf3 Bd3 21. e5 fxe5 ]
+White: -3.90 STM: 3.90
+Evaluated 88406 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kxf1 -4.1
+e5 -4.099999999999996
+f5 -4.0
+g4 -3.9000000000000004
+engine top line: [ 20. g4 b5 21. e5 Bd3 22. Nf3 ]
+White: -3.90 STM: -3.90
+Evaluated 229908 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxb4 1.7000000000000028
+O-O 3.8000000000000007
+Rd1 3.8999999999999995
+b5 3.9000000000000004
+Bd3 4.000000000000002
+engine top line: [ 20. ... Bd3 21. Ke3 b5 22. Nf3 Bc2 ]
+White: -4.00 STM: 4.00
+Evaluated 403717 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+b5 -5.1999999999999975
+Ke3 -4.0
+engine top line: [ 21. Ke3 Bf1 22. Kf3 Rd4 23. f5 ]
+White: -4.00 STM: -4.00
+Evaluated 118030 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxb4 1.6999999999999993
+Bxe4 2.1999999999999993
+O-O 3.9000000000000004
+engine top line: [ 21. ... O-O 22. Ne2 Bxe2 23. Kxe2 b5 ]
+White: -3.90 STM: 3.90
+Evaluated 498953 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+b5 -5.299999999999997
+g5 -5.200000000000001
+h4 -5.199999999999999
+Nh3 -4.1
+Ne2 -3.9000000000000004
+engine top line: [ 22. Ne2 Bxe2 23. Kxe2 b5 24. f5 ]
+White: -3.90 STM: -3.90
+Evaluated 114277 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxe2 3.9000000000000004
+engine top line: [ 22. ... Bxe2 23. Kxe2 Rd4 24. Ke3 b5 ]
+White: -3.90 STM: 3.90
+Evaluated 58607 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kxe2 -4.100000000000001
+engine top line: [ 23. Kxe2 Rd4 24. Kf3 Re8 25. Be3 ]
+White: -4.10 STM: -4.10
+Evaluated 16925 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxb4 2.499999999999999
+Rd7 3.6999999999999975
+Rd4 4.100000000000001
+engine top line: [ 23. ... Rd4 24. Kf3 Re8 25. Be3 Rxe4 ]
+White: -4.10 STM: 4.10
+Evaluated 73391 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+b5 -5.100000000000001
+Kf3 -4.100000000000001
+engine top line: [ 24. Kf3 Re8 25. Be3 Rxe4 26. Bxa7 ]
+White: -4.10 STM: -4.10
+Evaluated 44046 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxb4 2.499999999999999
+Re8 4.200000000000003
+engine top line: [ 24. ... Re8 25. Be3 Rxe4 26. Bxa7 b5 ]
+White: -4.20 STM: 4.20
+Evaluated 83715 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+b5 -5.099999999999997
+g5 -5.099999999999996
+Be3 -4.899999999999999
+engine top line: [ 25. Be3 Rxe4 26. Bxa7 Bb2 27. Bb6 ]
+White: -4.90 STM: -4.90
+Evaluated 69262 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxb4 -0.6999999999999993
+Rxe4 3.0
+Rxe4 4.899999999999999
+engine top line: [ 25. ... Rxe4 26. Bxa7 Bb2 27. Bb6 Bxa3 ]
+White: -4.90 STM: 4.90
+Evaluated 66817 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxa7 -4.6
+engine top line: [ 26. Bxa7 Bb2 27. b5 Bxa3 28. b6 ]
+White: -4.60 STM: -4.60
+Evaluated 67252 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxb4 2.8000000000000007
+Re7 4.0
+Re6 4.000000000000002
+Kh8 4.0000000000000036
+b5 4.200000000000003
+Rc4 4.5
+Bb2 4.800000000000001
+engine top line: [ 26. ... Bb2 27. b5 Bxa3 28. b6 Bc5 ]
+White: -4.80 STM: 4.80
+Evaluated 241134 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bb8 -5.0
+Bb6 -4.999999999999998
+b5 -4.800000000000001
+engine top line: [ 27. b5 Bxa3 28. b6 Bc5 29. f5 ]
+White: -4.80 STM: -4.80
+Evaluated 58757 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxa3 4.800000000000001
+engine top line: [ 27. ... Bxa3 28. b6 h6 29. Bb8 Bc5 ]
+White: -4.80 STM: 4.80
+Evaluated 94567 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bb8 -6.0
+Bb6 -5.899999999999997
+Bf2 -5.099999999999998
+f5 -4.999999999999998
+Rd1 -4.799999999999997
+engine top line: [ 28. Rd1 Re2 29. Bf2 b6 30. f5 ]
+White: -4.80 STM: -4.80
+Evaluated 288396 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxf4 0.8000000000000003
+Re7 4.700000000000001
+Re2 4.799999999999999
+Re1 4.800000000000001
+engine top line: [ 28. ... Re1 29. Rxe1 Rxe1 30. Bd4 Kg7 ]
+White: -4.80 STM: 4.80
+Evaluated 247364 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxe1 -4.800000000000001
+engine top line: [ 29. Rxe1 Rxe1 30. Bd4 Rf1 31. Bf2 ]
+White: -4.80 STM: -4.80
+Evaluated 74337 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxe1 4.800000000000001
+engine top line: [ 29. ... Rxe1 30. Bf2 Rh1 31. Kg2 Rd1 ]
+White: -4.80 STM: 4.80
+Evaluated 23089 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bb8 -5.999999999999998
+Bb6 -5.0
+Bd4 -4.9
+Bf2 -4.7
+engine top line: [ 30. Bf2 Rd1 31. b6 Bb2 32. g5 ]
+White: -4.70 STM: -4.70
+Evaluated 66389 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kf8 -0.40000000000000036
+Kg7 -0.3999999999999999
+h5 -0.2999999999999998
+Bb4 2.7
+Re6 4.600000000000001
+Rd1 4.7
+Rf1 4.700000000000001
+engine top line: [ 30. ... Rf1 31. Kg2 Rd1 32. b6 Bb2 ]
+White: -4.70 STM: 4.70
+Evaluated 52793 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+b6 -9.3
+f5 -8.4
+g5 -6.800000000000001
+Kg3 -4.9
+Kg2 -4.7
+engine top line: [ 31. Kg2 Rd1 32. b6 Bb2 33. g5 ]
+White: -4.70 STM: -4.70
+Evaluated 43185 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxf2 3.0000000000000004
+Rd1 4.700000000000001
+engine top line: [ 31. ... Rd1 32. b6 h6 33. f5 Bb2 ]
+White: -4.70 STM: 4.70
+Evaluated 14135 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+b6 -4.700000000000001
+engine top line: [ 32. b6 Bc1 33. f5 Bd2 34. Bd4 ]
+White: -4.70 STM: -4.70
+Evaluated 32608 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kf8 4.600000000000001
+Kg7 4.7
+h6 4.700000000000001
+engine top line: [ 32. ... h6 33. f5 Kf8 34. Be3 Bc1 ]
+White: -4.70 STM: 4.70
+Evaluated 93596 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+f5 -4.700000000000001
+Kf3 -4.600000000000001
+engine top line: [ 33. Kf3 Bb2 34. h4 Kf8 35. h5 ]
+White: -4.60 STM: -4.60
+Evaluated 50169 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kf8 4.600000000000001
+Bb2 4.700000000000001
+engine top line: [ 33. ... Bb2 34. f5 Kf8 35. Ke4 Ke8 ]
+White: -4.70 STM: 4.70
+Evaluated 132134 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+f5 -4.700000000000001
+h4 -4.600000000000001
+engine top line: [ 34. h4 Kf8 35. f5 Ke8 36. h5 ]
+White: -4.60 STM: -4.60
+Evaluated 43296 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kf8 4.600000000000001
+engine top line: [ 34. ... Kf8 35. f5 Ke8 36. h5 Kd8 ]
+White: -4.60 STM: 4.60
+Evaluated 63125 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+f5 -4.600000000000001
+engine top line: [ 35. f5 Ke8 36. h5 Kd8 37. Ke4 ]
+White: -4.60 STM: -4.60
+Evaluated 18456 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 4.600000000000001
+engine top line: [ 35. ... Ke8 36. h5 Kd8 37. Ke4 Kc8 ]
+White: -4.60 STM: 4.60
+Evaluated 56045 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+g5 -5.9
+h5 -4.600000000000001
+Be3 -4.6000000000000005
+engine top line: [ 36. Be3 Bc1 37. Ke2 Rh1 38. h5 ]
+White: -4.60 STM: -4.60
+Evaluated 21586 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 3.8000000000000003
+Bd4 4.300000000000001
+Bc1 4.6000000000000005
+Rd3 4.600000000000001
+engine top line: [ 36. ... Rd3 37. Ke4 Rd6 38. h5 Kd8 ]
+White: -4.60 STM: 4.60
+Evaluated 39402 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+g5 -6.2
+Ke4 -4.500000000000001
+engine top line: [ 37. Ke4 Rd6 38. h5 Be5 39. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 23868 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxe3 2.7
+Rd1 3.8000000000000003
+Rd6 4.600000000000001
+engine top line: [ 37. ... Rd6 38. h5 Kd8 39. Kf3 Kc8 ]
+White: -4.60 STM: 4.60
+Evaluated 19108 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 38. Kf3 Kd8 39. h5 Bd4 40. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 22788 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kd8 4.600000000000001
+engine top line: [ 38. ... Kd8 39. h5 Kc8 40. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 32373 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+g5 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 39. Ke4 Kc8 40. h5 Be5 41. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 41314 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.09999999999999964
+Kc8 4.600000000000001
+engine top line: [ 39. ... Kc8 40. h5 Kb8 41. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 46643 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 40. Kf3 Kb8 41. h5 Bd4 42. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 21255 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 40. ... Kb8 41. h5 Ka8 42. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 30252 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 41. Ke4 Ka8 42. h5 Be5 43. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 41. ... Ka8 42. h5 Kb8 43. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 42. Kf3 Kb8 43. h5 Bd4 44. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 42. ... Kb8 43. h5 Ka8 44. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 43. Ke4 Ka8 44. h5 Be5 45. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 43. ... Ka8 44. h5 Kb8 45. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 44. Kf3 Kb8 45. h5 Bd4 46. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 44. ... Kb8 45. h5 Ka8 46. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 45. Ke4 Ka8 46. h5 Be5 47. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 45. ... Ka8 46. h5 Kb8 47. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 46. Kf3 Kb8 47. h5 Bd4 48. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 46. ... Kb8 47. h5 Ka8 48. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 47. Ke4 Ka8 48. h5 Be5 49. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 47. ... Ka8 48. h5 Kb8 49. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 48. Kf3 Kb8 49. h5 Bd4 50. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 48. ... Kb8 49. h5 Ka8 50. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 49. Ke4 Ka8 50. h5 Be5 51. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 49. ... Ka8 50. h5 Kb8 51. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 50. Kf3 Kb8 51. h5 Bd4 52. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 50. ... Kb8 51. h5 Ka8 52. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 51. Ke4 Ka8 52. h5 Be5 53. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 51. ... Ka8 52. h5 Kb8 53. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 52. Kf3 Kb8 53. h5 Bd4 54. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 52. ... Kb8 53. h5 Ka8 54. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 53. Ke4 Ka8 54. h5 Be5 55. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 53. ... Ka8 54. h5 Kb8 55. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 54. Kf3 Kb8 55. h5 Bd4 56. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 54. ... Kb8 55. h5 Ka8 56. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 55. Ke4 Ka8 56. h5 Be5 57. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 55. ... Ka8 56. h5 Kb8 57. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 56. Kf3 Kb8 57. h5 Bd4 58. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 56. ... Kb8 57. h5 Ka8 58. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 57. Ke4 Ka8 58. h5 Be5 59. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 57. ... Ka8 58. h5 Kb8 59. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 58. Kf3 Kb8 59. h5 Bd4 60. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 58. ... Kb8 59. h5 Ka8 60. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 59. Ke4 Ka8 60. h5 Be5 61. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 59. ... Ka8 60. h5 Kb8 61. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 60. Kf3 Kb8 61. h5 Bd4 62. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 60. ... Kb8 61. h5 Ka8 62. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 61. Ke4 Ka8 62. h5 Be5 63. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 61. ... Ka8 62. h5 Kb8 63. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 62. Kf3 Kb8 63. h5 Bd4 64. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 62. ... Kb8 63. h5 Ka8 64. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 63. Ke4 Ka8 64. h5 Be5 65. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 63. ... Ka8 64. h5 Kb8 65. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 64. Kf3 Kb8 65. h5 Bd4 66. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 64. ... Kb8 65. h5 Ka8 66. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 65. Ke4 Ka8 66. h5 Be5 67. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 65. ... Ka8 66. h5 Kb8 67. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 66. Kf3 Kb8 67. h5 Bd4 68. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 66. ... Kb8 67. h5 Ka8 68. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 67. Ke4 Ka8 68. h5 Be5 69. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 67. ... Ka8 68. h5 Kb8 69. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 68. Kf3 Kb8 69. h5 Bd4 70. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 68. ... Kb8 69. h5 Ka8 70. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 69. Ke4 Ka8 70. h5 Be5 71. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 69. ... Ka8 70. h5 Kb8 71. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 70. Kf3 Kb8 71. h5 Bd4 72. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 70. ... Kb8 71. h5 Ka8 72. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 71. Ke4 Ka8 72. h5 Be5 73. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 71. ... Ka8 72. h5 Kb8 73. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 72. Kf3 Kb8 73. h5 Bd4 74. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 72. ... Kb8 73. h5 Ka8 74. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 73. Ke4 Ka8 74. h5 Be5 75. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 73. ... Ka8 74. h5 Kb8 75. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 74. Kf3 Kb8 75. h5 Bd4 76. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 74. ... Kb8 75. h5 Ka8 76. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 75. Ke4 Ka8 76. h5 Be5 77. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 75. ... Ka8 76. h5 Kb8 77. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 76. Kf3 Kb8 77. h5 Bd4 78. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 76. ... Kb8 77. h5 Ka8 78. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 77. Ke4 Ka8 78. h5 Be5 79. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 77. ... Ka8 78. h5 Kb8 79. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 78. Kf3 Kb8 79. h5 Bd4 80. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 78. ... Kb8 79. h5 Ka8 80. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 79. Ke4 Ka8 80. h5 Be5 81. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 79. ... Ka8 80. h5 Kb8 81. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 80. Kf3 Kb8 81. h5 Bd4 82. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 80. ... Kb8 81. h5 Ka8 82. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Ke4 -4.500000000000001
+engine top line: [ 81. Ke4 Ka8 82. h5 Be5 83. Bc5 ]
+White: -4.50 STM: -4.50
+Evaluated 30842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 4.600000000000001
+engine top line: [ 81. ... Ka8 82. h5 Kb8 83. Kf3 Ka8 ]
+White: -4.60 STM: 4.60
+Evaluated 32203 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -5.0
+Kf4 -4.700000000000001
+Kf3 -4.6000000000000005
+engine top line: [ 82. Kf3 Kb8 83. h5 Bd4 84. Bxd4 ]
+White: -4.60 STM: -4.60
+Evaluated 16535 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Kb8 4.600000000000001
+engine top line: [ 82. ... Kb8 83. h5 Ka8 84. Bc5 Rd2 ]
+White: -4.60 STM: 4.60
+Evaluated 21388 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxh6 -4.9
+h5 -4.6000000000000005
+Bf4 -3.5999999999999988
+Ke4 -3.4000000000000004
+engine top line: [ 83. Ke4 h5 84. gxh5 Rd7 85. h6 ]
+White: -3.40 STM: -3.40
+Evaluated 46801 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 0.8000000000000003
+Ka8 0.8999999999999999
+h5 3.400000000000001
+engine top line: [ 83. ... h5 84. gxh5 Rd1 85. h6 Be5 ]
+White: -3.40 STM: 3.40
+Evaluated 24974 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+gxh5 -3.400000000000001
+engine top line: [ 84. gxh5 Rc6 85. Kd5 Rc3 86. Bd4 ]
+White: -3.40 STM: -3.40
+Evaluated 7617 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 -0.5
+Ka8 3.0999999999999996
+Rd1 3.3000000000000007
+Rd7 3.4000000000000004
+Rc6 3.5000000000000004
+engine top line: [ 84. ... Rc6 85. Kd5 Rc3 86. Bf4 Ka8 ]
+White: -3.50 STM: 3.50
+Evaluated 14373 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h6 -4.1
+Kd5 -3.4000000000000004
+engine top line: [ 85. Kd5 Rc8 86. h6 Rd8 87. Kc5 ]
+White: -3.40 STM: -3.40
+Evaluated 16547 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 -0.5
+Ka8 3.0999999999999996
+Rc3 3.4000000000000004
+Be5 3.400000000000001
+engine top line: [ 85. ... Be5 86. h6 Rd6 87. Kc5 Rd1 ]
+White: -3.40 STM: 3.40
+Evaluated 21713 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke4 -4.2
+h6 -3.3
+engine top line: [ 86. h6 Rc8 87. h5 Rd8 88. Kc5 ]
+White: -3.30 STM: -3.30
+Evaluated 11397 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 -0.8999999999999999
+Ka8 2.9999999999999996
+Rc3 3.0999999999999988
+Rc8 3.3000000000000007
+engine top line: [ 86. ... Rc8 87. h5 Rd8 88. Kc5 Rd1 ]
+White: -3.30 STM: 3.30
+Evaluated 19806 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -4.799999999999999
+Ke4 -4.1
+h5 -3.2
+engine top line: [ 87. h5 Ka8 88. Ke4 Rc4 89. Kd5 ]
+White: -3.20 STM: -3.20
+Evaluated 13929 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 3.3
+engine top line: [ 87. ... Ka8 88. Ke4 Rc4 89. Kd3 Rc8 ]
+White: -3.30 STM: 3.30
+Evaluated 27707 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -4.5
+Ke4 -3.8999999999999995
+Bc5 -3.3000000000000003
+Bf2 -3.3
+engine top line: [ 88. Bf2 Rd8 89. Kc5 Rh8 90. Be3 ]
+White: -3.30 STM: -3.30
+Evaluated 20496 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 3.2000000000000006
+Rd8 3.3000000000000003
+Rg8 3.3000000000000007
+engine top line: [ 88. ... Rg8 89. Be3 Rd8 90. Kc5 Rd1 ]
+White: -3.30 STM: 3.30
+Evaluated 30935 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -4.5
+Ke4 -4.1
+Be3 -3.2
+engine top line: [ 89. Be3 Re8 90. Kc4 Rc8 91. Bc5 ]
+White: -3.20 STM: -3.20
+Evaluated 22843 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 3.2
+Rc8 3.3
+Bb2 3.3000000000000003
+engine top line: [ 89. ... Bb2 90. Kd6 Rd8 91. Kc7 Rd5 ]
+White: -3.30 STM: 3.30
+Evaluated 34864 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -4.4
+Kd6 -3.3000000000000003
+Kc5 -3.2
+engine top line: [ 90. Kc5 Re8 91. Bd4 Bxd4 92. Kxd4 ]
+White: -3.20 STM: -3.20
+Evaluated 26149 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 2.9999999999999996
+Rf8 3.2
+engine top line: [ 90. ... Rf8 91. Kb5 Rh8 92. Bd2 Ba1 ]
+White: -3.20 STM: 3.20
+Evaluated 24471 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -4.4
+Kd6 -3.3000000000000003
+Kb5 -3.2
+engine top line: [ 91. Kb5 Rd8 92. Ka4 Bd4 93. Bxd4 ]
+White: -3.20 STM: -3.20
+Evaluated 25239 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 2.9999999999999996
+Re8 3.2
+engine top line: [ 91. ... Re8 92. Bf4 Rh8 93. Bd2 Ba1 ]
+White: -3.20 STM: 3.20
+Evaluated 24202 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -4.4
+Bf4 -3.3000000000000003
+engine top line: [ 92. Bf4 Rd8 93. Kc5 Rc8 94. Kd6 ]
+White: -3.30 STM: -3.30
+Evaluated 18007 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Re7 2.7
+Rd8 3.3000000000000007
+engine top line: [ 92. ... Rd8 93. Kc5 Be5 94. Be3 Rd1 ]
+White: -3.30 STM: 3.30
+Evaluated 18905 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -4.4
+Kb4 -4.3999999999999995
+engine top line: [ 93. Kb4 Rd4 94. Kb3 Rxf4 95. Kxb2 ]
+White: -4.40 STM: -4.40
+Evaluated 16716 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rd7 2.7000000000000006
+Rd4 2.9999999999999996
+Rh8 3.2
+Bd4 3.3000000000000007
+engine top line: [ 93. ... Bd4 94. Bc7 Rh8 95. Kc4 Be5 ]
+White: -3.30 STM: 3.30
+Evaluated 17842 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -4.500000000000001
+Kb5 -4.499999999999999
+engine top line: [ 94. Kb5 Bf2 95. Bc1 Rd5 96. Kc4 ]
+White: -4.50 STM: -4.50
+Evaluated 17101 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxb6 1.4000000000000008
+Rd7 2.7
+Rd5 3.9000000000000004
+Bf2 4.499999999999999
+engine top line: [ 94. ... Bf2 95. Bc1 Rd5 96. Kc4 Rxf5 ]
+White: -4.50 STM: 4.50
+Evaluated 21221 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -4.4
+engine top line: [ 95. h7 Rc8 96. h6 Rh8 97. Bd2 ]
+White: -4.40 STM: -4.40
+Evaluated 12273 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxb6 2.700000000000001
+Rd5 3.0000000000000004
+Rc8 4.4
+engine top line: [ 95. ... Rc8 96. h6 Rh8 97. Bd2 Rxh7 ]
+White: -4.40 STM: 4.40
+Evaluated 22397 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h8 -4.5
+h6 -4.4
+engine top line: [ 96. h6 Rh8 97. Bd2 Rxh7 98. Ka5 ]
+White: -4.40 STM: -4.40
+Evaluated 43352 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxb6 2.600000000000001
+Rc5 2.7
+Rd8 4.3999999999999995
+Rh8 4.4
+engine top line: [ 96. ... Rh8 97. Bd2 Rxh7 98. Ka5 Kb8 ]
+White: -4.40 STM: 4.40
+Evaluated 16447 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka5 -4.5
+Bd2 -4.4
+engine top line: [ 97. Bd2 Rxh7 98. Ka5 Kb8 99. Kb5 ]
+White: -4.40 STM: -4.40
+Evaluated 8394 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxb6 2.600000000000001
+Rxh7 4.4
+engine top line: [ 97. ... Rxh7 98. Ka5 Kb8 99. Kb5 Ka8 ]
+White: -4.40 STM: 4.40
+Evaluated 5123 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka5 -5.399999999999999
+Bf4 -4.5
+engine top line: [ 98. Bf4 Be1 99. Kc5 Rh8 100. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 10844 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxb6 2.600000000000001
+Rh8 4.4
+Be1 4.5
+engine top line: [ 98. ... Be1 99. Be3 Kb8 100. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 10627 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 99. Kc5 Rh8 100. Kd6 Kb8 101. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 99. ... Rh8 100. Kb5 Rh7 101. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 100. Kb5 Rh7 101. Kc5 Rh8 102. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 100. ... Rh7 101. Be3 Kb8 102. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 101. Kc5 Rh8 102. Kd6 Kb8 103. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 101. ... Rh8 102. Kb5 Rh7 103. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 102. Kb5 Rh7 103. Kc5 Rh8 104. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 102. ... Rh7 103. Be3 Kb8 104. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 103. Kc5 Rh8 104. Kd6 Kb8 105. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 103. ... Rh8 104. Kb5 Rh7 105. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 104. Kb5 Rh7 105. Kc5 Rh8 106. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 104. ... Rh7 105. Be3 Kb8 106. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 105. Kc5 Rh8 106. Kd6 Kb8 107. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 105. ... Rh8 106. Kb5 Rh7 107. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 106. Kb5 Rh7 107. Kc5 Rh8 108. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 106. ... Rh7 107. Be3 Kb8 108. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 107. Kc5 Rh8 108. Kd6 Kb8 109. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 107. ... Rh8 108. Kb5 Rh7 109. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 108. Kb5 Rh7 109. Kc5 Rh8 110. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 108. ... Rh7 109. Be3 Kb8 110. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 109. Kc5 Rh8 110. Kd6 Kb8 111. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 109. ... Rh8 110. Kb5 Rh7 111. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 110. Kb5 Rh7 111. Kc5 Rh8 112. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 110. ... Rh7 111. Be3 Kb8 112. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 111. Kc5 Rh8 112. Kd6 Kb8 113. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 111. ... Rh8 112. Kb5 Rh7 113. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 112. Kb5 Rh7 113. Kc5 Rh8 114. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 112. ... Rh7 113. Be3 Kb8 114. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 113. Kc5 Rh8 114. Kd6 Kb8 115. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 113. ... Rh8 114. Kb5 Rh7 115. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 114. Kb5 Rh7 115. Kc5 Rh8 116. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 114. ... Rh7 115. Be3 Kb8 116. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 115. Kc5 Rh8 116. Kd6 Kb8 117. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 115. ... Rh8 116. Kb5 Rh7 117. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 116. Kb5 Rh7 117. Kc5 Rh8 118. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 116. ... Rh7 117. Be3 Kb8 118. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 117. Kc5 Rh8 118. Kd6 Kb8 119. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 117. ... Rh8 118. Kb5 Rh7 119. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 118. Kb5 Rh7 119. Kc5 Rh8 120. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 118. ... Rh7 119. Be3 Kb8 120. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 119. Kc5 Rh8 120. Kd6 Kb8 121. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 119. ... Rh8 120. Kb5 Rh7 121. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 120. Kb5 Rh7 121. Kc5 Rh8 122. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 120. ... Rh7 121. Be3 Kb8 122. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 121. Kc5 Rh8 122. Kd6 Kb8 123. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 121. ... Rh8 122. Kb5 Rh7 123. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 122. Kb5 Rh7 123. Kc5 Rh8 124. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 122. ... Rh7 123. Be3 Kb8 124. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 123. Kc5 Rh8 124. Kd6 Kb8 125. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 123. ... Rh8 124. Kb5 Rh7 125. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 124. Kb5 Rh7 125. Kc5 Rh8 126. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 124. ... Rh7 125. Be3 Kb8 126. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 125. Kc5 Rh8 126. Kd6 Kb8 127. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 125. ... Rh8 126. Kb5 Rh7 127. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 126. Kb5 Rh7 127. Kc5 Rh8 128. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 126. ... Rh7 127. Be3 Kb8 128. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 127. Kc5 Rh8 128. Kd6 Kb8 129. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 127. ... Rh8 128. Kb5 Rh7 129. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 128. Kb5 Rh7 129. Kc5 Rh8 130. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 128. ... Rh7 129. Be3 Kb8 130. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 129. Kc5 Rh8 130. Kd6 Kb8 131. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 129. ... Rh8 130. Kb5 Rh7 131. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 130. Kb5 Rh7 131. Kc5 Rh8 132. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 130. ... Rh7 131. Be3 Kb8 132. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 131. Kc5 Rh8 132. Kd6 Kb8 133. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 131. ... Rh8 132. Kb5 Rh7 133. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 132. Kb5 Rh7 133. Kc5 Rh8 134. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 132. ... Rh7 133. Be3 Kb8 134. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 133. Kc5 Rh8 134. Kd6 Kb8 135. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 133. ... Rh8 134. Kb5 Rh7 135. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 134. Kb5 Rh7 135. Kc5 Rh8 136. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 134. ... Rh7 135. Be3 Kb8 136. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 135. Kc5 Rh8 136. Kd6 Kb8 137. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 135. ... Rh8 136. Kb5 Rh7 137. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 136. Kb5 Rh7 137. Kc5 Rh8 138. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 136. ... Rh7 137. Be3 Kb8 138. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 137. Kc5 Rh8 138. Kd6 Kb8 139. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 137. ... Rh8 138. Kb5 Rh7 139. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 138. Kb5 Rh7 139. Kc5 Rh8 140. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 138. ... Rh7 139. Be3 Kb8 140. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 139. Kc5 Rh8 140. Kd6 Kb8 141. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 139. ... Rh8 140. Kb5 Rh7 141. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 140. Kb5 Rh7 141. Kc5 Rh8 142. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 140. ... Rh7 141. Be3 Kb8 142. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 141. Kc5 Rh8 142. Kd6 Kb8 143. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 141. ... Rh8 142. Kb5 Rh7 143. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 142. Kb5 Rh7 143. Kc5 Rh8 144. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 142. ... Rh7 143. Be3 Kb8 144. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 143. Kc5 Rh8 144. Kd6 Kb8 145. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 4.5
+engine top line: [ 143. ... Rh8 144. Kb5 Rh7 145. Kc5 Rh8 ]
+White: -4.50 STM: 4.50
+Evaluated 5622 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+h7 -6.0
+Kd6 -5.6
+Kb5 -4.5
+engine top line: [ 144. Kb5 Rh7 145. Kc5 Rh8 146. Kd6 ]
+White: -4.50 STM: -4.50
+Evaluated 12837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.5
+Rh7 4.5
+engine top line: [ 144. ... Rh7 145. Be3 Kb8 146. Kc4 Ka8 ]
+White: -4.50 STM: 4.50
+Evaluated 15324 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc5 -4.5
+engine top line: [ 145. Kc5 Rh8 146. Kd6 Kb8 147. Kd7 ]
+White: -4.50 STM: -4.50
+Evaluated 5357 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Rh8 2.599999999999999
+Bf2 2.6999999999999993
+Bh4 4.4
+engine top line: [ 145. ... Bh4 146. Kd6 Bg5 147. Bxg5 fxg5 ]
+White: -4.40 STM: 4.40
+Evaluated 6877 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd6 -5.3
+engine top line: [ 146. Kd6 Bg5 147. Bxg5 fxg5 148. f6 ]
+White: -5.30 STM: -5.30
+Evaluated 10655 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 0.6999999999999997
+Bg5 5.3
+engine top line: [ 146. ... Bg5 147. Bxg5 fxg5 148. f6 Rxh6 ]
+White: -5.30 STM: 5.30
+Evaluated 1524 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Bxg5 -5.3
+engine top line: [ 147. Bxg5 fxg5 148. Ke7 Rxh6 149. f6 ]
+White: -5.30 STM: -5.30
+Evaluated 1410 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+fxg5 5.6000000000000005
+engine top line: [ 147. ... fxg5 148. Ke7 Rxh6 149. f6 Rh7 ]
+White: -5.60 STM: 5.60
+Evaluated 825 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc7 -7.2
+Kd7 -6.1
+Ke7 -5.6000000000000005
+engine top line: [ 148. Ke7 Rxh6 149. f6 Rh7 150. Kd8 ]
+White: -5.60 STM: -5.60
+Evaluated 1911 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxh6 5.7
+engine top line: [ 148. ... Rxh6 149. f6 Rh7 150. Kd8 g4 ]
+White: -5.70 STM: 5.70
+Evaluated 2380 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kxf7 -6.1000000000000005
+f6 -5.7
+engine top line: [ 149. f6 Rh7 150. Kd8 g4 151. Kc8 ]
+White: -5.70 STM: -5.70
+Evaluated 3637 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxf6 1.1
+Kb8 4.6000000000000005
+Rh2 4.9
+engine top line: [ 149. ... Rh2 150. Kxf7 g4 151. Ke8 g3 ]
+White: -4.90 STM: 4.90
+Evaluated 5889 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kxf7 -5.6
+engine top line: [ 150. Kxf7 Rb2 151. Ke8 Rxb6 152. f7 ]
+White: -5.60 STM: -5.60
+Evaluated 3932 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 4.0
+g4 4.2
+Rh8 4.3
+Re2 4.4
+engine top line: [ 150. ... Re2 151. Kg7 g4 152. f7 Re7 ]
+White: -4.40 STM: 4.40
+Evaluated 44668 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kf8 -5.6
+Kg8 -4.4
+engine top line: [ 151. Kg8 Re8 152. Kg7 g4 153. f7 ]
+White: -4.40 STM: -4.40
+Evaluated 9410 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 0.7
+g4 0.8
+Re6 4.1000000000000005
+Re8 4.4
+engine top line: [ 151. ... Re8 152. Kg7 g4 153. f7 Re7 ]
+White: -4.40 STM: 4.40
+Evaluated 44969 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kf7 -4.4
+engine top line: [ 152. Kf7 Re5 153. Kg7 g4 154. f7 ]
+White: -4.40 STM: -4.40
+Evaluated 8137 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 -8.0
+Re5 4.4
+engine top line: [ 152. ... Re5 153. Kg7 g4 154. f7 Re7 ]
+White: -4.40 STM: 4.40
+Evaluated 19463 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kf8 -5.6
+Kg8 -4.4
+Kg6 -4.3999999999999995
+engine top line: [ 153. Kg6 Re6 154. Kxg5 Rxb6 155. f7 ]
+White: -4.40 STM: -4.40
+Evaluated 13634 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 -1.0999999999999999
+Re4 0.8
+Re6 4.4
+engine top line: [ 153. ... Re6 154. Kg7 g4 155. f7 Re7 ]
+White: -4.40 STM: 4.40
+Evaluated 9192 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kxg5 -4.5
+Kg7 -4.4
+engine top line: [ 154. Kg7 g4 155. f7 Re7 156. Kf8 ]
+White: -4.40 STM: -4.40
+Evaluated 5474 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Rxb6 -1.3999999999999995
+Rxf6 1.1
+engine top line: [ 154. ... Rxf6 155. Kxf6 g4 156. Ke7 g3 ]
+White: -1.10 STM: 1.10
+Evaluated 33526 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kxf6 -1.1
+engine top line: [ 155. Kxf6 g4 156. Ke7 g3 157. Kd8 ]
+White: -1.10 STM: -1.10
+Evaluated 521 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 -0.5
+g4 1.3
+engine top line: [ 155. ... g4 156. Ke7 g3 157. Kd8 g2 ]
+White: -1.30 STM: 1.30
+Evaluated 933 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke7 -8.6
+engine top line: [ 156. Ke7 g3 157. Kd8 g2 158. Kc8 ]
+White: -8.60 STM: -8.60
+Evaluated 4510 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 1.3
+g3 8.6
+engine top line: [ 156. ... g3 157. Kd8 g2 158. Kc8 g1 ]
+White: -8.60 STM: 8.60
+Evaluated 929 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -8.6
+engine top line: [ 157. Kd8 Kb8 158. Ke8 g2 159. Kd8 ]
+White: -8.60 STM: -8.60
+Evaluated 2269 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 8.6
+g2 8.8
+engine top line: [ 157. ... g2 158. Kc8 g1 159. Kc7 Qd1 ]
+White: -8.80 STM: 8.80
+Evaluated 427 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.5
+engine top line: [ 158. Kc8 g1 159. Kd8 Qxb6 160. Kc8 ]
+White: -10.50 STM: -10.50
+Evaluated 416 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+g1 10.5
+engine top line: [ 158. ... g1 159. Kd8 Qxb6 160. Kc8 Ka7 ]
+White: -10.50 STM: 10.50
+Evaluated 1308 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.5
+engine top line: [ 159. Kd8 Qxb6 160. Kc8 Ka7 161. Kd7 ]
+White: -10.50 STM: -10.50
+Evaluated 2048 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Qxb6 10.6
+engine top line: [ 159. ... Qxb6 160. Kc8 Qb3 161. Kd8 b5 ]
+White: -10.60 STM: 10.60
+Evaluated 21379 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.6
+engine top line: [ 160. Kc8 Qb3 161. Kd8 b5 162. Kc8 ]
+White: -10.60 STM: -10.60
+Evaluated 2884 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.6
+Qb3 10.700000000000001
+engine top line: [ 160. ... Qb3 161. Kd8 b5 162. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 24232 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 161. Kd8 b5 162. Kc8 b4 163. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 2934 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 161. ... Kb8 162. Ke8 b5 163. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 162. Ke8 b5 163. Kd8 b4 164. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 162. ... Ka8 163. Kd8 b5 164. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 163. Kd8 b5 164. Kc8 b4 165. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 163. ... Kb8 164. Ke8 b5 165. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 164. Ke8 b5 165. Kd8 b4 166. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 164. ... Ka8 165. Kd8 b5 166. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 165. Kd8 b5 166. Kc8 b4 167. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 165. ... Kb8 166. Ke8 b5 167. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 166. Ke8 b5 167. Kd8 b4 168. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 166. ... Ka8 167. Kd8 b5 168. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 167. Kd8 b5 168. Kc8 b4 169. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 167. ... Kb8 168. Ke8 b5 169. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 168. Ke8 b5 169. Kd8 b4 170. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 168. ... Ka8 169. Kd8 b5 170. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 169. Kd8 b5 170. Kc8 b4 171. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 169. ... Kb8 170. Ke8 b5 171. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 170. Ke8 b5 171. Kd8 b4 172. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 170. ... Ka8 171. Kd8 b5 172. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 171. Kd8 b5 172. Kc8 b4 173. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 171. ... Kb8 172. Ke8 b5 173. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 172. Ke8 b5 173. Kd8 b4 174. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 172. ... Ka8 173. Kd8 b5 174. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 173. Kd8 b5 174. Kc8 b4 175. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 173. ... Kb8 174. Ke8 b5 175. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 174. Ke8 b5 175. Kd8 b4 176. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 174. ... Ka8 175. Kd8 b5 176. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 175. Kd8 b5 176. Kc8 b4 177. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 175. ... Kb8 176. Ke8 b5 177. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 176. Ke8 b5 177. Kd8 b4 178. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 176. ... Ka8 177. Kd8 b5 178. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 177. Kd8 b5 178. Kc8 b4 179. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 177. ... Kb8 178. Ke8 b5 179. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 178. Ke8 b5 179. Kd8 b4 180. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 178. ... Ka8 179. Kd8 b5 180. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 179. Kd8 b5 180. Kc8 b4 181. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 179. ... Kb8 180. Ke8 b5 181. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 180. Ke8 b5 181. Kd8 b4 182. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 180. ... Ka8 181. Kd8 b5 182. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 181. Kd8 b5 182. Kc8 b4 183. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 181. ... Kb8 182. Ke8 b5 183. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 182. Ke8 b5 183. Kd8 b4 184. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 182. ... Ka8 183. Kd8 b5 184. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 183. Kd8 b5 184. Kc8 b4 185. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 183. ... Kb8 184. Ke8 b5 185. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 184. Ke8 b5 185. Kd8 b4 186. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 184. ... Ka8 185. Kd8 b5 186. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 185. Kd8 b5 186. Kc8 b4 187. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 185. ... Kb8 186. Ke8 b5 187. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 186. Ke8 b5 187. Kd8 b4 188. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 186. ... Ka8 187. Kd8 b5 188. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 187. Kd8 b5 188. Kc8 b4 189. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 187. ... Kb8 188. Ke8 b5 189. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 188. Ke8 b5 189. Kd8 b4 190. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 188. ... Ka8 189. Kd8 b5 190. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 189. Kd8 b5 190. Kc8 b4 191. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 189. ... Kb8 190. Ke8 b5 191. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 190. Ke8 b5 191. Kd8 b4 192. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 190. ... Ka8 191. Kd8 b5 192. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 191. Kd8 b5 192. Kc8 b4 193. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 191. ... Kb8 192. Ke8 b5 193. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 192. Ke8 b5 193. Kd8 b4 194. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 192. ... Ka8 193. Kd8 b5 194. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 193. Kd8 b5 194. Kc8 b4 195. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 193. ... Kb8 194. Ke8 b5 195. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 194. Ke8 b5 195. Kd8 b4 196. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 194. ... Ka8 195. Kd8 b5 196. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 195. Kd8 b5 196. Kc8 b4 197. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 195. ... Kb8 196. Ke8 b5 197. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 196. Ke8 b5 197. Kd8 b4 198. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 196. ... Ka8 197. Kd8 b5 198. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 197. Kd8 b5 198. Kc8 b4 199. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 197. ... Kb8 198. Ke8 b5 199. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 198. Ke8 b5 199. Kd8 b4 200. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 198. ... Ka8 199. Kd8 b5 200. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 199. Kd8 b5 200. Kc8 b4 201. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 199. ... Kb8 200. Ke8 b5 201. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 200. Ke8 b5 201. Kd8 b4 202. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 200. ... Ka8 201. Kd8 b5 202. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 201. Kd8 b5 202. Kc8 b4 203. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 201. ... Kb8 202. Ke8 b5 203. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 202. Ke8 b5 203. Kd8 b4 204. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 202. ... Ka8 203. Kd8 b5 204. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 203. Kd8 b5 204. Kc8 b4 205. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 203. ... Kb8 204. Ke8 b5 205. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 204. Ke8 b5 205. Kd8 b4 206. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 204. ... Ka8 205. Kd8 b5 206. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 205. Kd8 b5 206. Kc8 b4 207. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 205. ... Kb8 206. Ke8 b5 207. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 32770 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 206. Ke8 b5 207. Kd8 b4 208. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 3451 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 206. ... Ka8 207. Kd8 b5 208. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 38079 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 207. Kd8 b5 208. Kc8 b4 209. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3475 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 10.700000000000001
+engine top line: [ 207. ... Kb8 208. Ke8 b5 209. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 20456 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke8 -10.700000000000001
+engine top line: [ 208. Ke8 b5 209. Kd8 b4 210. Ke8 ]
+White: -10.70 STM: -10.70
+Evaluated 1973 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 208. ... Ka8 209. Kd8 b5 210. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 5994 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 209. Kd8 b5 210. Kc8 b4 211. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 1321 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 0
+b6 10.700000000000001
+engine top line: [ 209. ... b6 210. Kc8 b5 211. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 3181 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 210. Kc8 b5 211. Kd8 b4 212. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 210. ... Ka7 211. Kd8 b5 212. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 211. Kd8 b5 212. Kc8 b4 213. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 211. ... Ka8 212. Kc8 b5 213. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 212. Kc8 b5 213. Kd8 b4 214. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 212. ... Ka7 213. Kd8 b5 214. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 213. Kd8 b5 214. Kc8 b4 215. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 213. ... Ka8 214. Kc8 b5 215. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 214. Kc8 b5 215. Kd8 b4 216. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 214. ... Ka7 215. Kd8 b5 216. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 215. Kd8 b5 216. Kc8 b4 217. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 215. ... Ka8 216. Kc8 b5 217. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 216. Kc8 b5 217. Kd8 b4 218. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 216. ... Ka7 217. Kd8 b5 218. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 217. Kd8 b5 218. Kc8 b4 219. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 217. ... Ka8 218. Kc8 b5 219. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 218. Kc8 b5 219. Kd8 b4 220. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 218. ... Ka7 219. Kd8 b5 220. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 219. Kd8 b5 220. Kc8 b4 221. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 219. ... Ka8 220. Kc8 b5 221. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 220. Kc8 b5 221. Kd8 b4 222. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 220. ... Ka7 221. Kd8 b5 222. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 221. Kd8 b5 222. Kc8 b4 223. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 221. ... Ka8 222. Kc8 b5 223. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 222. Kc8 b5 223. Kd8 b4 224. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 222. ... Ka7 223. Kd8 b5 224. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 223. Kd8 b5 224. Kc8 b4 225. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 223. ... Ka8 224. Kc8 b5 225. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 224. Kc8 b5 225. Kd8 b4 226. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 224. ... Ka7 225. Kd8 b5 226. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 225. Kd8 b5 226. Kc8 b4 227. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 225. ... Ka8 226. Kc8 b5 227. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 226. Kc8 b5 227. Kd8 b4 228. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 226. ... Ka7 227. Kd8 b5 228. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 227. Kd8 b5 228. Kc8 b4 229. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 227. ... Ka8 228. Kc8 b5 229. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 228. Kc8 b5 229. Kd8 b4 230. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 228. ... Ka7 229. Kd8 b5 230. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 229. Kd8 b5 230. Kc8 b4 231. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 229. ... Ka8 230. Kc8 b5 231. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 230. Kc8 b5 231. Kd8 b4 232. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 230. ... Ka7 231. Kd8 b5 232. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 231. Kd8 b5 232. Kc8 b4 233. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 231. ... Ka8 232. Kc8 b5 233. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 232. Kc8 b5 233. Kd8 b4 234. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 232. ... Ka7 233. Kd8 b5 234. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 233. Kd8 b5 234. Kc8 b4 235. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 233. ... Ka8 234. Kc8 b5 235. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 234. Kc8 b5 235. Kd8 b4 236. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 234. ... Ka7 235. Kd8 b5 236. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 235. Kd8 b5 236. Kc8 b4 237. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 235. ... Ka8 236. Kc8 b5 237. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 236. Kc8 b5 237. Kd8 b4 238. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 236. ... Ka7 237. Kd8 b5 238. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 237. Kd8 b5 238. Kc8 b4 239. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 237. ... Ka8 238. Kc8 b5 239. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 238. Kc8 b5 239. Kd8 b4 240. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 238. ... Ka7 239. Kd8 b5 240. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 239. Kd8 b5 240. Kc8 b4 241. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 239. ... Ka8 240. Kc8 b5 241. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 240. Kc8 b5 241. Kd8 b4 242. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 240. ... Ka7 241. Kd8 b5 242. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 241. Kd8 b5 242. Kc8 b4 243. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 241. ... Ka8 242. Kc8 b5 243. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 242. Kc8 b5 243. Kd8 b4 244. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 242. ... Ka7 243. Kd8 b5 244. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 243. Kd8 b5 244. Kc8 b4 245. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 243. ... Ka8 244. Kc8 b5 245. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 244. Kc8 b5 245. Kd8 b4 246. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 244. ... Ka7 245. Kd8 b5 246. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 245. Kd8 b5 246. Kc8 b4 247. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 245. ... Ka8 246. Kc8 b5 247. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 246. Kc8 b5 247. Kd8 b4 248. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 246. ... Ka7 247. Kd8 b5 248. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 247. Kd8 b5 248. Kc8 b4 249. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 247. ... Ka8 248. Kc8 b5 249. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 248. Kc8 b5 249. Kd8 b4 250. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 248. ... Ka7 249. Kd8 b5 250. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 249. Kd8 b5 250. Kc8 b4 251. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 249. ... Ka8 250. Kc8 b5 251. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 250. Kc8 b5 251. Kd8 b4 252. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 250. ... Ka7 251. Kd8 b5 252. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 251. Kd8 b5 252. Kc8 b4 253. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 251. ... Ka8 252. Kc8 b5 253. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 252. Kc8 b5 253. Kd8 b4 254. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 252. ... Ka7 253. Kd8 b5 254. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 253. Kd8 b5 254. Kc8 b4 255. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 253. ... Ka8 254. Kc8 b5 255. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 254. Kc8 b5 255. Kd8 b4 256. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 254. ... Ka7 255. Kd8 b5 256. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 255. Kd8 b5 256. Kc8 b4 257. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 255. ... Ka8 256. Kc8 b5 257. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 34024 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 256. Kc8 b5 257. Kd8 b4 258. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 3613 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 256. ... Ka7 257. Kd8 b5 258. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 27014 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 257. Kd8 b5 258. Kc8 b4 259. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 3152 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+engine top line: [ 257. ... Ka8 258. Kc8 b5 259. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 19763 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 258. Kc8 b5 259. Kd8 b4 260. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 1813 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.700000000000001
+engine top line: [ 258. ... Ka7 259. Kd8 b5 260. Kc8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 2881 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd8 -10.700000000000001
+engine top line: [ 259. Kd8 b5 260. Kc8 b4 261. Kd8 ]
+White: -10.70 STM: -10.70
+Evaluated 645 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 0
+b5 10.700000000000001
+engine top line: [ 259. ... b5 260. Kc8 Ka8 261. Kd8 b4 ]
+White: -10.70 STM: 10.70
+Evaluated 1524 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 -10.700000000000001
+engine top line: [ 260. Kc8 Ka8 261. Kd8 b4 262. Kc8 ]
+White: -10.70 STM: -10.70
+Evaluated 2598 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+b4 10.9
+Qf7 1000
+engine top line: [ 260. ... Qf7 ]
+White: -1000.00 STM: 1000.00
+Evaluated 26837 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 198 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka8 10.700000000000001
+Ka6 1000
+engine top line: [ 261. ... Ka6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 1734 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 833 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Qf6 10.9
+Qe7 1000
+engine top line: [ 262. ... Qe7 ]
+White: -1000.00 STM: 1000.00
+Evaluated 16500 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 737 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Qe6 10.9
+Qe5 1000
+engine top line: [ 263. ... Qe5 ]
+White: -1000.00 STM: 1000.00
+Evaluated 2314 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1222 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb6 0
+Ka5 11.0
+Qe4 1000
+engine top line: [ 264. ... Qe4 ]
+White: -1000.00 STM: 1000.00
+Evaluated 2023 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 49 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb6 1000
+engine top line: [ 265. ... Kb6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 918 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1390 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ka7 10.9
+Kc6 1000
+engine top line: [ 266. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 4526 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 484 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb7 10.9
+Kd6 1000
+engine top line: [ 267. ... Kd6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 6397 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 2435 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Ke7 10.9
+Kc6 1000
+engine top line: [ 268. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 2940 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 484 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kd7 1000
+engine top line: [ 269. ... Kd7 ]
+White: -1000.00 STM: 1000.00
+Evaluated 252 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 384 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc8 10.9
+Kc7 1000
+engine top line: [ 270. ... Kc7 ]
+White: -1000.00 STM: 1000.00
+Evaluated 6997 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1805 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 9.4
+Kc6 1000
+engine top line: [ 271. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 7576 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc7 1000
+engine top line: [ 272. ... Kc7 ]
+White: -1000.00 STM: 1000.00
+Evaluated 1204 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1805 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 9.4
+Kc6 1000
+engine top line: [ 273. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 7576 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc7 1000
+engine top line: [ 274. ... Kc7 ]
+White: -1000.00 STM: 1000.00
+Evaluated 1204 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1805 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 9.4
+Kc6 1000
+engine top line: [ 275. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 7576 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc7 1000
+engine top line: [ 276. ... Kc7 ]
+White: -1000.00 STM: 1000.00
+Evaluated 1204 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1805 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 9.4
+Kc6 1000
+engine top line: [ 277. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 7576 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb7 9.4
+Kc5 1000
+engine top line: [ 278. ... Kc5 ]
+White: -1000.00 STM: 1000.00
+Evaluated 8722 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1166 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+b4 11.100000000000001
+Kc6 1000
+engine top line: [ 279. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 2953 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb7 9.4
+Kc5 1000
+engine top line: [ 280. ... Kc5 ]
+White: -1000.00 STM: 1000.00
+Evaluated 8722 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1166 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+b4 11.100000000000001
+Kc6 1000
+engine top line: [ 281. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 2953 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc7 1000
+engine top line: [ 282. ... Kc7 ]
+White: -1000.00 STM: 1000.00
+Evaluated 1204 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1805 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 9.4
+Kc6 1000
+engine top line: [ 283. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 7576 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc7 1000
+engine top line: [ 284. ... Kc7 ]
+White: -1000.00 STM: 1000.00
+Evaluated 1204 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1805 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 9.4
+Kc6 1000
+engine top line: [ 285. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 7576 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb7 9.4
+Kc5 1000
+engine top line: [ 286. ... Kc5 ]
+White: -1000.00 STM: 1000.00
+Evaluated 8722 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1166 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+b4 11.100000000000001
+Kc6 1000
+engine top line: [ 287. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 2953 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc7 1000
+engine top line: [ 288. ... Kc7 ]
+White: -1000.00 STM: 1000.00
+Evaluated 1204 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1805 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 9.4
+Kc6 1000
+engine top line: [ 289. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 7576 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb7 9.4
+Kc5 1000
+engine top line: [ 290. ... Kc5 ]
+White: -1000.00 STM: 1000.00
+Evaluated 8722 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1166 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+b4 11.100000000000001
+Kc6 1000
+engine top line: [ 291. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 2953 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb7 9.4
+Kc5 1000
+engine top line: [ 292. ... Kc5 ]
+White: -1000.00 STM: 1000.00
+Evaluated 8722 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1166 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+b4 11.100000000000001
+Kc6 1000
+engine top line: [ 293. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 2953 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc7 1000
+engine top line: [ 294. ... Kc7 ]
+White: -1000.00 STM: 1000.00
+Evaluated 1204 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1805 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 9.4
+Kc6 1000
+engine top line: [ 295. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 7576 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc7 1000
+engine top line: [ 296. ... Kc7 ]
+White: -1000.00 STM: 1000.00
+Evaluated 1204 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1805 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 9.4
+Kc6 1000
+engine top line: [ 297. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 7576 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb7 9.4
+Kc5 1000
+engine top line: [ 298. ... Kc5 ]
+White: -1000.00 STM: 1000.00
+Evaluated 8722 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1166 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+b4 11.100000000000001
+Kc6 1000
+engine top line: [ 299. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 2953 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc7 1000
+engine top line: [ 300. ... Kc7 ]
+White: -1000.00 STM: 1000.00
+Evaluated 1204 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1805 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 9.4
+Kc6 1000
+engine top line: [ 301. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 7576 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb7 9.4
+Kc5 1000
+engine top line: [ 302. ... Kc5 ]
+White: -1000.00 STM: 1000.00
+Evaluated 8722 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1166 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+b4 11.100000000000001
+Kc6 1000
+engine top line: [ 303. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 2953 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc7 1000
+engine top line: [ 304. ... Kc7 ]
+White: -1000.00 STM: 1000.00
+Evaluated 1204 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1805 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 9.4
+Kc6 1000
+engine top line: [ 305. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 7576 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 561 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb7 9.4
+Kc5 1000
+engine top line: [ 306. ... Kc5 ]
+White: -1000.00 STM: 1000.00
+Evaluated 8722 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 1166 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+b4 11.100000000000001
+Kc6 1000
+engine top line: [ 307. ... Kc6 ]
+White: -1000.00 STM: 1000.00
+Evaluated 2911 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 471 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kc7 1000
+engine top line: [ 308. ... Kc7 ]
+White: -1000.00 STM: 1000.00
+Evaluated 150 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Evaluated 233 nodes
+done thinking
+thinking...
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Kb8 0
+b4 11.100000000000001
+Qa4 1000
+engine top line: [ 309. ... Qa4 ]
+White: -1000.00 STM: 1000.00
+Evaluated 4270 nodes
+done thinking
+
